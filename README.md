@@ -21,8 +21,8 @@ Input:
 
 
 
-Beispielplot
+Beispielplots:
 
-![image-20230516122753318](C:\Users\simon\AppData\Roaming\Typora\typora-user-images\image-20230516122753318.png)
+![erreichbarkeiten_iso_1hex](https://raw.githubusercontent.com/radverkehr/erreichbarkeiten/main/img/erreichbarkeiten_iso_1hex.png)
 
-![image-20230516122804026](C:\Users\simon\AppData\Roaming\Typora\typora-user-images\image-20230516122804026.png)
+![erreichbarkeiten_scoring](https://raw.githubusercontent.com/radverkehr/erreichbarkeiten/main/img/erreichbarkeiten_scoring.png)
