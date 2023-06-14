@@ -11,7 +11,7 @@ Die Attraktionspunkte sind bspw. Kosumeinrichtungen, Öffentlichene Einrichtunge
 
 OSM amenity/shop: https://radverkehr.github.io/erreichbarkeiten/showcase_kall/viz/attractions_kall_amenity.html
 
-PT Vergleich OSM und zHV: https://radverkehr.github.io/erreichbarkeiten/showcase_kall/viz/attractions_kall_pt.html
+PT Vergleich OSM, zHV und GTFS: https://radverkehr.github.io/erreichbarkeiten/showcase_kall/viz/attractions_kall_pt.html
 
 ###### Gewichtung und Scoring der Attraktionspunkte:
 
