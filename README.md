@@ -1,5 +1,17 @@
 # erreichbarkeiten
 
+
+
+
+
+Aktueller Entwicklungsstand: 
+
+https://radverkehr.github.io/erreichbarkeiten/showcase_kall/viz/plz_53925_ebr_dash_isosimp002_25-03-21.htm
+
+_________________
+
+
+
 Proof of concept:
 Mithilfe von Graphhopper (localhost) werden Fahrzeiten-Isochrone berechnet für jeden Hex-Mittelpunkt. Es können die Routingeigenschaften ausgewählt, konfiguriert (config-file) und ggf. auch weiter angepasst (Java) werden. In dem Beispiel handelt es sich um "Fahrrad".
 
